@@ -1,0 +1,5 @@
+.DS_Store
+Thumbs.db
+*.tmp.html
+node_modules/
+.pdf-tmp/
